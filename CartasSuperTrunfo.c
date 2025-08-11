@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// NIVEL NOVATO 
 int main() {
 char estado1;
 char codigo1[4];
@@ -82,3 +82,4 @@ printf("Número de Pontos Turísticos: %d\n", pontost2);
 return 0;
 
 }
+//======================================================
